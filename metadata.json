@@ -1,0 +1,6 @@
+{
+  "name": "SheCare AI",
+  "description": "Women's Health & Wellness Assistant supporting cycle tracking, AI health Q&A, symptom warning checks, diet & exercise plans, nearby health center recommendations, and Indian language support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
